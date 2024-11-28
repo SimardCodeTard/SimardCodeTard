@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<iframe src="portfolio-simard.vercel.app" title="My portfolio"></iframe>
+Welcome to my github profile !
 
 <!--
 **SimardCodeTard/SimardCodeTard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
