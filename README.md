@@ -47,25 +47,20 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
 
 ### 🔹 **Next.js Daily Dashboard**
 - A personal dashboard featuring a todo list, weather widget, and calendar, built with **Next.js**, **SCSS**, and **MUI Base**.  
-✨ Focus on UI/UX, modular widgets, and clean design.
-
-<a href="https://github.com/SimardCodeTard/life-dashboard"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
-
+   ✨ Focus on UI/UX, modular widgets, and clean design.
+  
+   - <a href="https://github.com/SimardCodeTard/life-dashboard"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 ---
 
 ### 🔹 **42 School Projects**
 
-- **Libft** – Custom C standard library
-  
-  🤓 Focus on code reusability and safety.
+- **Libft** – Custom C standard library  
+  🤓 Focus on code reusability and safety.  
+  - <a href="https://github.com/SimardCodeTard/libft"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 
-  <a href="https://github.com/SimardCodeTard/libft"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
-
-- **Get Next Line** – Line-by-line file reader
-  
-  💪 Focus on code safety and optimisation
-
-  <a href="https://github.com/SimardCodeTard/get_next_line"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
+- **Get Next Line** – Line-by-line file reader  
+   💪 Focus on code safety and optimisation  
+   - <a href="https://github.com/SimardCodeTard/get_next_line"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 
 - **ft_printf** – formatted output function *(Coming soon !)*
 
@@ -73,13 +68,12 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
 
 #### 💠42 School Side Projects
 
-- **C Tester Framework** – My own unit test framework in C
+- **C Tester Framework** – My own unit test framework in C  
+   🧵 Focus on code reusability and asyncronous code execution.
   
-  🧵 Focus on code reusability and asyncronous code execution.
+   - <a href="https://github.com/SimardCodeTard/c-tester-framework"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 
-  <a href="https://github.com/SimardCodeTard/libft"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
-
-- **My own 2D game with it's custom engine** *(Coming soon-ish !)*
+- **My own 2D game with a custom engine** - A 2D plateformer with a custom game engine and map editor *(Coming soon-ish !)*
 
 ---
 
