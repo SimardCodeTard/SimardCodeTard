@@ -62,7 +62,8 @@ My top 3 games of all time are: **Skyrim**, **Cyberpunk 2077**, and **Minecraft*
    💪 Focus on code safety and optimisation  
    - <a href="https://github.com/SimardCodeTard/get_next_line"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 
-- **ft_printf** – formatted output function *(Coming soon !)*
+- **ft_printf**
+  - <a href="https://github.com/SimardCodeTard/ft_printf"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?logo=github&logoColor=white" /></a>
 
 - **Born2BeRoot** – Linux & security exploration *(Coming soon !)*
 
